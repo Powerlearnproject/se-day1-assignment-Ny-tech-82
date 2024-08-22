@@ -18,7 +18,6 @@ to software development, hence easy identification of its limitation.
 The emergence of structured programming- it emerged as a respond to complex progamming by breaking down code into manageable section 
 to enhnce readability and maintainance.This set stage for develpment and advancement in software engineering.
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Planning -identify the objective and resources required for the project
 2. Requirement analysis -gathering information on what the user needs from the software.
